@@ -101,8 +101,8 @@ $disable_log_rotation = false;
  * scripts and resource files are not in the main Cacti web server path.
  */
 
-$scripts_path = '/cacti/scripts';
-$resource_path = '/cacti/resource/';
+$scripts_path = '/scripts';
+$resource_path = '/resource/';
 
 /*
  * Optional parameter to define a data input whitelist command string. This

@@ -16,7 +16,7 @@ ENV \
     RDB_PASS=cactipassword \
     RDB_HOST=localhost \
     RDB_PORT=3306 \
-    CACTI_URL_PATH=cacti \
+    CACTI_URL_PATH=\
     BACKUP_RETENTION=7 \
     BACKUP_TIME=0 \
     REMOTE_POLLER=0 \
