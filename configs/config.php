@@ -69,7 +69,7 @@ $poller_id = 1;
  * would be set to `/cacti/`.
  */
 
-$url_path = '/%CACTI_URL_PATH%/';
+$url_path = '/';
 
 /*
  * Default session name - session name must contain alpha characters
